@@ -2,7 +2,8 @@
 
 # SkillCept
 
-learning Git Pull requests í²–
+Learning Git Pull requests í²–
+Another commit
 
 ## Live demo
 
