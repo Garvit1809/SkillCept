@@ -2,7 +2,7 @@
 
 # SkillCept
 
-SkillCept is an AR-based web platform where students from any class can visit the site and learn various concepts with the help of 3D Models, which makes their understanding easier, and faster. SkillCept can help students achieve better results through visualization and full immersion in the subject matter.
+learning Git Pull requests í²–
 
 ## Live demo
 
